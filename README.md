@@ -1,76 +1,112 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I+Am+Vijay+Kumar+Kushwaha;AI+ML+Engineer;Researcher;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Building+Next-Gen+AI+Systems;Generative+AI+Researcher;Computer+Vision+Integrator;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-</div>
-
-<div align="center">
-  <h3>Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/vijaykushwaha-03/count.svg" alt="Visitor Count" />
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Computer Vision, GenAI, and RAG Systems**
-- 🌱 I’m currently learning **Advanced Multi-Agent Systems & Cloud Native AI**
-- 👯 I’m looking to collaborate on **Open Source AI/ML Projects**
-- 💬 Ask me about **Python, TensorFlow, PyTorch, LangChain, & MLOps**
-- 📫 How to reach me: [vijaykushwaha.03@gmail.com](mailto:vijaykushwaha.03@gmail.com)
-- ⚡ Fun fact: **I can train models significantly faster than I can train for a marathon.**
-
----
-
-<div align="center">
-  <h3>🛠️ Languages and Tools</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h3>📈 GitHub Stats</h3>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vijaykushwaha-03&show_icons=true&locale=en&theme=tokyonight" alt="Vijay's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykushwaha-03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Vijay's Top Languages" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykushwaha-03&theme=tokyonight" alt="Vijay's Streak" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/vijaykushwaha-03/vijaykushwaha-03/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZobHBjODFkbjRneGdvZ2Z5ZzhkOTA5ajN5eW1oZ2l0aDN1Z3h4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvtKSk0sHNqjkq1p0V/giphy.gif" alt="AI Futuristic Animation" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vijaykushwaha-03&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h2>⚡ About Me</h2>
+  <p align="center" width="600">
+    I am a results-driven <b>AI & ML Engineer</b> focused on building scalable, intelligent systems. 
+    My work bridges the gap between cutting-edge research and practical production tools.
+    <br/><br/>
+    I research and engineer solutions in <b>Large Language Models (LLMs)</b>, <b>RAG architectures</b>, and <b>Autonomous Agents</b>.
+    I am constantly exploring new frontiers in <b>Computer Vision</b> and product automation.
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <h3>🧠 AI & ML Focus</h3>
+        • <b>Generative AI & LLMs</b><br/>
+        • <b>RAG & Vector Databases</b><br/>
+        • <b>Autonomous Agents</b> (LangChain)<br/>
+        • <b>Computer Vision </b><br/>
+        • <b>Model Eval & Optimization</b>
+      </td>
+      <td align="center" width="50%">
+        <h3>🛠️ Engineering</h3>
+        • <b>Scalable ML Pipelines</b><br/>
+        • <b>API Development</b> (FastAPI)<br/>
+        • <b>Production Deployment</b><br/>
+        • <b>Multi-Modal Systems</b><br/>
+        • <b>Automation Tools</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,langchain,docker,git,linux,django,fastapi,postgres,redis,aws&theme=dark" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🚀 Projects & Research</h2>
+</div>
+
+| 🤖 **AI Agents** | 📚 **RAG Systems** | 👁️ **Computer Vision** |
+|:---:|:---:|:---:|
+| Building autonomous agents for workflow automation. | High-precision retrieval systems for enterprise knowledge. | Real-time object detection and analytics tools. |
+
+<br/>
+
+<div align="center">
+  <h2>🔥 Learning Now</h2>
+  <code>Multi-Modal Architects</code> • <code>Deep Reinforcement Learning</code> • <code>3D Generative AI</code>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📈 GitHub Analytics</h2>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vijaykushwaha-03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=79ff97" alt="Vijay's Stats" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykushwaha-03&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&currStreakLabel=00F0FF" alt="Vijay's Streak" height="150" />
+  </div>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykushwaha-03&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Vijay's Top Languages" height="150" />
+  </div>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+  <img src="https://github.com/vijaykushwaha-03/vijaykushwaha-03/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>“Buil. Break. Learn. Repeat.”</i>
+  <br/><br/>
   <a href="https://linkedin.com/in/vijay-kushwaha-03">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vijaykushwaha.03@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
