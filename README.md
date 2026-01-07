@@ -10,6 +10,14 @@
 
 <br/>
 
+<!-- Floating/Side GIFs -->
+<div align="right">
+  <img src="https://media.tenor.com/-pL_6w2wO-AAAAAi/blue-lock-isagi.gif" width="150px" style="float: right; margin-left: 10px;" />
+</div>
+<div align="left">
+  <img src="https://media.tenor.com/PZwbKqXqyqAAAAAi/naruto-run-naruto.gif" width="150px" style="float: left; margin-right: 10px;" />
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vijaykushwaha-03&style=for-the-badge&color=00F0FF" alt="Profile Views" />
 </div>
@@ -98,8 +106,8 @@
 
 <div align="center">
   <h2>🐍 Snake Activity</h2>
-  <!-- Note: This requires the snake contribution GitHub Action to be active in your repo -->
-  <img src="https://github.com/vijaykushwaha-03/vijaykushwaha-03/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <!-- Fix: Pointing to the raw file on the output branch -->
+  <img src="https://raw.githubusercontent.com/vijaykushwaha-03/vijaykushwaha-03/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <br/>
