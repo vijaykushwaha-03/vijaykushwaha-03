@@ -1,13 +1,8 @@
 <div align="center">
 
-  <!-- HERO SECTION: CINEMATIC HEADER -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhkZmc2cjh5bXF5bXF5bXF5bXF5bXF5bXF5bXF5bXF5bXF5bQ/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px; opacity: 0.8;" alt="Cyberpunk AI Header">
-  
-  <br/><br/>
-
   <!-- ANIMATED TYPING TEXT: NAME & ROLE -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=VIJAY+KUMAR+KUSHWAHA;AI+SYSTEMS+ARCHITECT;BUILDING+THE+FUTURE;NEURAL+NETWORKS+ENGINEER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=VIJAY+KUMAR+KUSHWAHA;AI+SYSTEMS+ARCHITECT;EGOIST+CODER;NINJA+ENGINEER" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,10 +10,10 @@
   <!-- SUBTITLE / PHILOSOPHY -->
   <p align="center">
     <a href="#">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/FLOW-EGOIST_STATE-00F0FF?style=for-the-badge&logo=riotgames&logoColor=black&labelColor=000000"/>
     </a>
     <a href="#">
-    <img src="https://img.shields.io/badge/MODE-AGENTIC-7000FF?style=for-the-badge&logo=dependabot&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/RANK-S_CLASS-7000FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000"/>
     </a>
   </p>
 
@@ -26,7 +21,7 @@
 
 <br/>
 
-<!-- SECTION: CORE IDENTITY + AI BRAIN -->
+<!-- SECTION: EGOIST PHILOSOPHY & AI BRAIN -->
 <div align="center">
   <table>
     <tr>
@@ -36,15 +31,17 @@
       </td>
       <!-- RIGHT: TEXT CONTENT -->
       <td width="60%" align="left" style="background-color: #0d1117; border: none; padding-left: 20px;">
-        <h2 style="color: #00F0FF;">⚡ IDENTITY: AI ENGINEER</h2>
+        <h2 style="color: #00F0FF;">⚡ THE EGOIST'S PHILOSOPHY</h2>
         <p style="font-family: monospace; color: #c9d1d9;">
-          > <b>Researching:</b> GenAI, RAG Pipelines, Autonomous Agents<br/>
-          > <b>Building:</b> Scalable ML Systems, Computer Vision<br/>
-          > <b>Vibe:</b> "Build systems that think. Improve systems that learn."
+          "I don't just write code; I <b>DEVOUR</b> complexity."
+          <br/><br/>
+          > <b>Mission:</b> Build systems that think. Improve systems that learn.<br/>
+          > <b>Nindo:</b> Continuous evolution. Every bug is a rival to crush.<br/>
+          > <b>Focus:</b> LLMs, RAG Architectures, Autonomous Agents.
         </p>
         <br/>
-        <img src="https://img.shields.io/badge/FOCUS-LLMs_&_AGENTS-blue?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LOC-INDIA-red?style=flat-square&logo=google-maps&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SKILL-SHARINGAN_VISION-red?style=flat-square&logo=target&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MODE-BLUE_LOCK-blue?style=flat-square&logo=azure&logoColor=white"/>
       </td>
     </tr>
   </table>
@@ -54,7 +51,7 @@
 
 <!-- SECTION: AI WORKFLOW PIPELINE -->
 <div align="center">
-  <h2 style="color: #7000FF;">🔁 INTELLIGENT PIPELINES</h2>
+  <h2 style="color: #7000FF;">🌀 JUTSU: INTELLIGENT PIPELINES</h2>
   <p style="color: #8b949e;">DATA STREAM → VECTORIZATION → AGENTIC REASONING → EXECUTION</p>
   
   <!-- VISUAL: NETWORK FLOW -->
@@ -62,29 +59,28 @@
   
   <br/><br/>
   
-  <!-- MERMAID DIAGRAM (Will render as diagram on GitHub) -->
-  <pre>
-mermaid
-graph LR
-    A[DATA] -->|Embedding| B(Vector DB)
-    B -->|Context| C{AI AGENT}
-    C -->|Reasoning| D[LLM CORE]
-    D -->|Action| E[TOOL EXECUTION]
-    E -->|Result| F[INTELLIGENT OUTPUT]
-    style A fill:#000000,stroke:#00F0FF,stroke-width:2px,color:#fff
-    style B fill:#000000,stroke:#7000FF,stroke-width:2px,color:#fff
-    style C fill:#000000,stroke:#00F0FF,stroke-width:4px,color:#fff
-    style D fill:#000000,stroke:#7000FF,stroke-width:2px,color:#fff
-    style E fill:#000000,stroke:#00F0FF,stroke-width:2px,color:#fff
-    style F fill:#000000,stroke:#00F0FF,stroke-width:2px,color:#fff
-  </pre>
+  <!-- MERMAID DIAGRAM -->
+  ```mermaid
+  graph LR
+      A[DATA] -->|Embedding| B(Vector DB)
+      B -->|Context| C{AI AGENT}
+      C -->|Reasoning| D[LLM CORE]
+      D -->|Action| E[TOOL EXECUTION]
+      E -->|Result| F[INTELLIGENT OUTPUT]
+      style A fill:#000000,stroke:#00F0FF,stroke-width:2px,color:#fff
+      style B fill:#000000,stroke:#7000FF,stroke-width:2px,color:#fff
+      style C fill:#000000,stroke:#00F0FF,stroke-width:4px,color:#fff
+      style D fill:#000000,stroke:#7000FF,stroke-width:2px,color:#fff
+      style E fill:#000000,stroke:#00F0FF,stroke-width:2px,color:#fff
+      style F fill:#000000,stroke:#00F0FF,stroke-width:2px,color:#fff
+  ```
 </div>
 
 <br/>
 
 <!-- SECTION: TECH ARSENAL (ICONS) -->
 <div align="center">
-  <h2 style="color: #00F0FF;">⚒️ TECH ARSENAL</h2>
+  <h2 style="color: #00F0FF;">⚒️ NINJA TOOLS (ARSENAL)</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain,openai,fastapi,django,docker,git,linux,aws,gcp&theme=dark" />
   </a>
@@ -94,7 +90,7 @@ graph LR
 
 <!-- SECTION: STATS & GRAPH -->
 <div align="center">
-  <h2 style="color: #7000FF;">📈 SYSTEM METRICS</h2>
+  <h2 style="color: #7000FF;">📈 POWER LEVELS</h2>
   
   <!-- GITHUB STATS -->
   <div align="center">
@@ -112,7 +108,7 @@ graph LR
 
 <!-- SECTION: CONNECT -->
 <div align="center">
-  <h2 style="color: #c9d1d9;">📡 ESTABLISH UPLINK</h2>
+  <h2 style="color: #c9d1d9;">📡 ALLIANCE UPLINK</h2>
   <a href="https://linkedin.com/in/vijay-kushwaha-03">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
