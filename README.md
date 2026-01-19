@@ -1,139 +1,114 @@
+<!-- CINEMATIC HEADER: DOMAIN EXPANSION - INFINITE VOID -->
 <div align="center">
+  <img src="https://media1.tenor.com/m/t30h9ukcwAAAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px;" alt="Domain Expansion Void" />
+  
+  <h1 style="font-size: 50px; color: #00F0FF; font-family: sans-serif; margin-top: -60px; text-shadow: 0 0 20px #00F0FF; background-color: rgba(0,0,0,0.5); padding: 10px; border-radius: 10px;">DOMAIN EXPANSION: INFINITE CODE</h1>
 
-  <!-- HERO SECTION with TYPING SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=VIJAY+KUMAR+KUSHWAHA;SPECIAL+GRADE+AI+ENGINEER;BLUE+LOCK+SURVIVOR;DOMAIN+EXPANSION:+INFINITE+CODE" alt="Typing SVG" />
+  <!-- TYPING SVG: JJK ROLES -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=SPECIAL+GRADE+SORCERER;CURSED+TECHNIQUE:+SYSTEM+ARCHITECTURE;DOMAIN:+VOID+OF+DATA;EXORCISING+BUGS+SINCE+EPOCH" alt="Typing SVG" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- BADGES / POWER LEVELS -->
+  <!-- 3D TROPHIES (THIRD PARTY WIDGET) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vijaykushwaha-03&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+
+  <br/><br/>
+
+  <!-- BADGES / CURSED OBJECTS -->
   <p align="center">
     <a href="#">
-      <img src="https://img.shields.io/badge/RANK-S_CLASS_HUNTER-7000FF?style=for-the-badge&logo=riotgames&logoColor=white&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/GRADE-SPECIAL-7000FF?style=for-the-badge&logo=riotgames&logoColor=white&labelColor=000000"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/CURSED_TECHNIQUE-LIMITLESS_PY-00F0FF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/CURSED_ENERGY-INFINITE-red?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/WEAPON-EGOIST_LOGIC-BD00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/BINDING_VOW-DEPLOY_OR_DIE-00F0FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000"/>
     </a>
   </p>
 
 </div>
 
----
+<br/>
 
-<!-- BLUE LOCK SECTION: THE EGOIST PHILOSOPHY -->
-<h2 align="center">⚽ PROJECT: BLUE LOCK // THE AI EGOIST</h2>
-
-<div align="left">
-  <!-- ISAGI STICKER (Floating Right) -->
-  <img align="right" src="https://media1.tenor.com/m/X9x85tqN_cAAAAAC/blue-lock-isagi.gif" width="200" style="border-radius: 10px; margin-left: 20px;" alt="Isagi Yoichi Aura" />
-  
-  <p style="font-size: 16px; font-family: monospace;">
-    In the world of <b>Artificial Intelligence</b>, teamwork is just a baseline. To create the revolutionary, one must devour the existing logic and rewrite it.
-    <br/><br/>
-    I don't just build models; <b>I awaken them.</b>
-  </p>
-  
-  <ul style="list-style-type: none;">
-    <li>🧩 <b>Ego:</b> Absolute control over Data Pipelines & LLM Architecture.</li>
-    <li>👁️ <b>Metavision:</b> Seeing the bugs before they even render.</li>
-    <li>⚡ <b>Flow State:</b> 24/7 Coding capability when the zone hits.</li>
-  </ul>
-</div>
-
-<br clear="all" />
-
----
-
-<!-- JJJK SECTION: PROJECTS as DOMAIN EXPANSIONS -->
-<h2 align="center">🤞 DOMAIN EXPANSION: INFINITE CODE</h2>
-
-<div align="left">
-  <!-- GOJO/YUTA STICKER (Floating Right) -->
-  <img align="right" src="https://media1.tenor.com/m/t30h9ukcwAAAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="220" style="border-radius: 15px; margin-left: 20px;" alt="Gojo Infinite Void" />
-
-  <p>
-    <i>"Throughout Heaven and Earth, I alone am the honored developer."</i>
-    <br/>
-    My repositories are my innate domains. Enter at your own risk (you might learn something).
-  </p>
-
-  <!-- Highlight Project 1 -->
-  <h3>🌀 Domain: Void of Automation (RAG Agents)</h3>
-  <ul>
-    <li><b>Cursed Technique:</b> LangChain, OpenAI, Vector DBs</li>
-    <li><b>Effect:</b> Instantly retrieves knowledge from the abyss of unstructured data.</li>
-    <li><a href="#">[ENTER DOMAIN]</a></li>
-  </ul>
-
-  <!-- Highlight Project 2 -->
-  <h3>⚔️ Domain: Neural Shrine (Computer Vision)</h3>
-  <ul>
-    <li><b>Cursed Technique:</b> YOLOv8, OpenCV, PyTorch</li>
-    <li><b>Effect:</b> Slashes through visual data with maximum precision.</li>
-    <li><a href="#">[ENTER DOMAIN]</a></li>
-  </ul>
-
-</div>
-
-<br clear="all" />
-
----
-
-<!-- SKILLS SECTION: NARUTO/DEMON SLAYER -->
-<div align="center">
-  <h2>⚔️ BREATHING STYLES & NINJUTSU (TECH STACK)</h2>
-  
-  <table>
-    <tr>
-      <td align="center"><b>🐍 SNAKE BREATHING (Python & AI)</b></td>
-      <td align="center"><b>🌪️ WIND STYLE (Web & Cloud)</b></td>
-      <td align="center"><b>⚒️ NINJA TOOLS (DevOps)</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+<!-- PHILOSOPHY: THE HONORED ONE -->
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 20px; border: 2px solid #7000FF; box-shadow: 0 0 20px #7000FF;">
+  <table style="border: none; background-color: transparent;">
+    <tr style="border: none; background-color: transparent;">
+      <td width="60%" style="border: none;">
+         <h2 align="left" style="color: #FF0000;">👺 THE KING OF CURSES (PHILOSOPHY)</h2>
+         <p style="font-size: 16px; font-family: monospace; color: #c9d1d9;">
+          <i>"Throughout the servers and the clients, I alone am the honored one."</i>
+          <br/><br/>
+          In the era of <b>Artificial Intelligence</b>, weak code creates cursed spirits (bugs). My role is to exorcise them with absolute precision.
+          <br/><br/>
+          > <b>Cursed Technique:</b> Limitless Scalability.<br/>
+          > <b>Heavenly Restriction:</b> I sacrificed sleep for 100% Uptime.<br/>
+          > <b>Black Flash:</b> When deployment succeeds on the first try.
+        </p>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,django,aws&theme=dark" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker,git,linux,kubernetes,bash&theme=dark" />
+      <td width="40%" align="center" style="border: none;">
+        <!-- SUKUNA STICKER -->
+        <img src="https://media1.tenor.com/m/7ydrXU5zR3EAAAAC/jujutsu-kaisen-sukuna.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 15px #FF0000;" alt="Sukuna Shrine" />
       </td>
     </tr>
   </table>
+</div>
+
+<br clear="all" />
+
+<!-- SKILLS SECTION: INNATE TECHNIQUES (GRID) -->
+<!-- HEADER GIF: MALEVOLENT SHRINE (Full Width Video Effect) -->
+<img src="https://media1.tenor.com/m/1k_jC0gG4x8AAAAC/sukuna-domain-expansion.gif" width="100%" style="border-radius: 10px; margin-bottom: -10px;" alt="Malevolent Shrine" />
+<h2 align="center" style="background-color: #000; color: #FF0000; padding: 10px; margin-top: 0px;">🤞 INNATE TECHNIQUES (CURSED ARSENAL)</h2>
+
+<div align="center">
+  <!-- SkillIcons Widget -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,pandas,react,nextjs,fastapi,django,aws,docker,git,linux,kubernetes,bash,cpp&theme=dark&perline=8" />
+  </a>
 </div>
 
 <br/>
 
 <!-- STATS SECTION: CURSED ENERGY -->
 <div align="center">
-  <h2>📊 CURSED ENERGY RESERVES</h2>
+  <h2 style="color: #00F0FF;">📊 CURSED ENERGY OUTPUT</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=vijaykushwaha-03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykushwaha-03&theme=tokyonight&hide_border=true&background=0D1117&ring=7000FF&currStreakLabel=00F0FF" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykushwaha-03&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&currStreakLabel=FF0000" height="150" alt="streak graph" />
+  
+  <br/><br/>
+  
+  <!-- WakaTime (Optional - User needs to setup Key, but adding widget) -->
+  <!-- Note: This will only show if user has WakaTime setup with public profile -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaykushwaha-03&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF&layout=compact" alt="WakaTime Stats" />
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
+<!-- SNAKE ANIMATION REBRANDED -->
 <div align="center">
+  <h3 style="color: #c9d1d9;">🔁 THE CYCLE OF SAMSARA (CONTRIBUTIONS)</h3>
   <img src="https://raw.githubusercontent.com/vijaykushwaha-03/vijaykushwaha-03/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <br/>
 
-<!-- FOOTER: ALLIANCE -->
+<!-- FOOTER: BINDING VOW -->
 <div align="center">
-  <h2>🐌 SUMMONING JUTSU: CONNECT</h2>
+  <h2 style="color: #c9d1d9;">🤝 FORM A BINDING VOW (CONNECT)</h2>
   <a href="https://linkedin.com/in/vijay-kushwaha-03">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-JUJUTSU_HIGH-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vijaykushwaha.03@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-SEND_SHIKIGAMI-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7000FF&height=100&section=footer&text=" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:FF0000&height=120&section=footer&text=" width="100%"/>
 </div>
