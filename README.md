@@ -1,33 +1,28 @@
-<!-- CINEMATIC HEADER: DOMAIN EXPANSION - INFINITE VOID -->
+<!-- CINEMATIC HEADER: NEURAL PROTOCOL INITIALIZED -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/t30h9ukcwAAAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="100%" style="border-radius: 0px;" alt="Domain Expansion Void" />
   
-  <h1 style="font-size: 50px; color: #00F0FF; font-family: sans-serif; margin-top: -60px; text-shadow: 0 0 20px #00F0FF; background-color: rgba(0,0,0,0.5); padding: 10px; border-radius: 10px;">DOMAIN EXPANSION: INFINITE CODE</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7bcdfd,100:c1a0fe&height=180&section=header&text=System%20Online:%20VijayKushwaha-03&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Executing%20Neural%20Protocol...&descAlignY=55&descSize=20"/>
 
-  <!-- TYPING SVG: JJK ROLES -->
+  <!-- CINEMATIC BACKGROUND GIF -->
+  <img src="https://i.pinimg.com/originals/3d/ba/f5/3dbaf5f00fd9cb814030438cf5dfabed.gif" width="100%" alt="Cyberpunk Neural Network" style="border-radius: 15px; margin-top: -30px; margin-bottom: 20px;" />
+
+  <!-- DYNAMIC HOLOGRAPHIC TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=SPECIAL+GRADE+SORCERER;CURSED+TECHNIQUE:+SYSTEM+ARCHITECTURE;DOMAIN:+VOID+OF+DATA;EXORCISING+BUGS+SINCE+EPOCH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=7BCDFD&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);Vijay+Kushwaha;AI+%2F+Machine+Learning+Engineer;Deep+Learning+Architect;Model+Optimizer+%26+MLOps" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br />
 
-  <!-- 3D TROPHIES (THIRD PARTY WIDGET) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vijaykushwaha-03&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-
-  <br/><br/>
-
-  <!-- BADGES / CURSED OBJECTS -->
+  <!-- HIGH-TECH BADGES (INTERACTIVE HOVER LINKS) -->
   <p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/GRADE-SPECIAL-7000FF?style=for-the-badge&logo=riotgames&logoColor=white&labelColor=000000"/>
+    <a href="https://github.com/vijaykushwaha-03">
+      <img src="https://img.shields.io/badge/STATUS-TRAINING_MODEL-7BCDFD?style=for-the-badge&logo=git&logoColor=white&labelColor=0c0d18" alt="Status"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/CURSED_ENERGY-INFINITE-red?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/TECHNIQUE-NEURAL_EXPANSION-C1A0FE?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0c0d18" alt="Technique"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/BINDING_VOW-DEPLOY_OR_DIE-00F0FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/LATENCY-ZERO_BLOCKING-00F0FF?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0c0d18" alt="Latency"/>
     </a>
   </p>
 
@@ -35,80 +30,150 @@
 
 <br/>
 
-<!-- PHILOSOPHY: THE HONORED ONE -->
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 20px; border: 2px solid #7000FF; box-shadow: 0 0 20px #7000FF;">
-  <table style="border: none; background-color: transparent;">
-    <tr style="border: none; background-color: transparent;">
-      <td width="60%" style="border: none;">
-         <h2 align="left" style="color: #FF0000;">👺 THE KING OF CURSES (PHILOSOPHY)</h2>
-         <p style="font-size: 16px; font-family: monospace; color: #c9d1d9;">
-          <i>"Throughout the servers and the clients, I alone am the honored one."</i>
-          <br/><br/>
-          In the era of <b>Artificial Intelligence</b>, weak code creates cursed spirits (bugs). My role is to exorcise them with absolute precision.
-          <br/><br/>
-          > <b>Cursed Technique:</b> Limitless Scalability.<br/>
-          > <b>Heavenly Restriction:</b> I sacrificed sleep for 100% Uptime.<br/>
-          > <b>Black Flash:</b> When deployment succeeds on the first try.
-        </p>
+<!-- INTERACTIVE ACCORDION: CORE NEURAL WEIGHTS -->
+<h2 align="center">🧬 CORE NEURAL WEIGHTS (SKILL TREE)</h2>
+<p align="center"><i>Click on the data nodes to expand and view the underlying tech stack.</i></p>
+
+<div align="center">
+
+<details>
+  <summary><h3>🔴  [EXPAND] Deep Learning & AI Core</h3></summary>
+  <br />
+  <p>The foundation of my neural architecture. specialized in training, fine-tuning, and deploying complex models.</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,scikitlearn,numpy,pandas,cpp&theme=dark&perline=10" alt="Deep Learning Stack" />
+  </a>
+  <br /><br />
+</details>
+
+<details>
+  <summary><h3>🟣  [EXPAND] Engineering & API Layer</h3></summary>
+  <br />
+  <p>Building high-performance APIs and robust backend systems to serve intelligence at scale.</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,fastapi,django,flask,graphql,mysql,postgresql,mongodb&theme=dark&perline=10" alt="API Stack" />
+  </a>
+  <br /><br />
+</details>
+
+<details>
+  <summary><h3>🔵  [EXPAND] MLOps & Infrastructure</h3></summary>
+  <br />
+  <p>Automating the deployment pipeline, ensuring models don't just work on localhost, but in the wild.</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux,bash,git,nginx&theme=dark&perline=10" alt="MLOps Stack" />
+  </a>
+  <br /><br />
+</details>
+
+</div>
+
+<br/>
+
+<!-- ANIMATED MODEL PERFORMANCE -->
+<h2 align="center">📊 MODEL PERFORMANCE (TELEMETRY)</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <!-- GITHUB STATS -->
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=vijaykushwaha-03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=7bcdfd&icon_color=c1a0fe&text_color=aaaab8&bg_color=0c0d18" height="190" alt="GitHub Stats" />
+        </a>
       </td>
-      <td width="40%" align="center" style="border: none;">
-        <!-- SUKUNA STICKER -->
-        <img src="https://media1.tenor.com/m/7ydrXU5zR3EAAAAC/jujutsu-kaisen-sukuna.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 15px #FF0000;" alt="Sukuna Shrine" />
+      <td align="center">
+        <!-- TOP LANGUAGES DOING A PIE CHART -->
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykushwaha-03&layout=compact&theme=tokyonight&hide_border=true&title_color=7bcdfd&icon_color=c1a0fe&text_color=aaaab8&bg_color=0c0d18" height="190" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <!-- STREAK WIDGET -->
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykushwaha-03&theme=tokyonight&hide_border=true&background=0c0d18&ring=c1a0fe&fire=7bcdfd&currStreakLabel=c1a0fe" height="170" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td align="center">
+         <!-- ANIMATED TROPHIES (3D EFFECT) -->
+         <a href="https://github.com/ryo-ma/github-profile-trophy">
+           <img src="https://github-profile-trophy.vercel.app/?username=vijaykushwaha-03&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=4" height="170" alt="Trophies" />
+         </a>
       </td>
     </tr>
   </table>
-</div>
 
-<br clear="all" />
+  <br/>
 
-<!-- SKILLS SECTION: INNATE TECHNIQUES (GRID) -->
-<!-- HEADER GIF: MALEVOLENT SHRINE (Full Width Video Effect) -->
-<img src="https://media1.tenor.com/m/1k_jC0gG4x8AAAAC/sukuna-domain-expansion.gif" width="100%" style="border-radius: 10px; margin-bottom: -10px;" alt="Malevolent Shrine" />
-<h2 align="center" style="background-color: #000; color: #FF0000; padding: 10px; margin-top: 0px;">🤞 INNATE TECHNIQUES (CURSED ARSENAL)</h2>
-
-<div align="center">
-  <!-- SkillIcons Widget -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,pandas,react,nextjs,fastapi,django,aws,docker,git,linux,kubernetes,bash,cpp&theme=dark&perline=8" />
-  </a>
+  <!-- CYBERPUNK SNAKE ANIMATION -->
+  <h3>🐍 CONTINUOUS INTEGRATION: THE SNAKE</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijaykushwaha-03/vijaykushwaha-03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijaykushwaha-03/vijaykushwaha-03/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vijaykushwaha-03/vijaykushwaha-03/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
 
-<!-- STATS SECTION: CURSED ENERGY -->
+<!-- REPOSITORY SHOWCASE (INTERACTIVE FOLDERS) -->
+<h2 align="center">📂 PROJECT REPOSITORY (TOP ALGORITHMS)</h2>
+
 <div align="center">
-  <h2 style="color: #00F0FF;">📊 CURSED ENERGY OUTPUT</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaykushwaha-03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykushwaha-03&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&currStreakLabel=FF0000" height="150" alt="streak graph" />
-  
-  <br/><br/>
-  
-  <!-- WakaTime (Optional - User needs to setup Key, but adding widget) -->
-  <!-- Note: This will only show if user has WakaTime setup with public profile -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaykushwaha-03&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF&layout=compact" alt="WakaTime Stats" />
+  <details>
+    <summary><b>✨ Open Source Projects & Architectures</b></summary>
+    <br/>
+    <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">🤖 Project Alpha (GenAI)</h3>
+          <p align="center">Generative AI application utilizing LLMs and RAG architecture for context-aware responses.</p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Complexity-HIGH-ff6e84?style=flat-square" />
+            <img src="https://img.shields.io/badge/Impact-CORE-7bcdfd?style=flat-square" />
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">👁️ Project Beta (CV)</h3>
+          <p align="center">Real-time Computer Vision pipeline for object detection and anomaly tracking.</p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Complexity-EXTREME-c1a0fe?style=flat-square" />
+            <img src="https://img.shields.io/badge/Impact-EDGE-00f0ff?style=flat-square" />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <i>* Projects are exemplary. Check my pinned repositories for actual live code.</i>
+        </td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION REBRANDED -->
-<div align="center">
-  <h3 style="color: #c9d1d9;">🔁 THE CYCLE OF SAMSARA (CONTRIBUTIONS)</h3>
-  <img src="https://raw.githubusercontent.com/vijaykushwaha-03/vijaykushwaha-03/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-</div>
+<!-- CONNECTIVITY LAYER AND FOOTER -->
+<h2 align="center">📡 CONNECTIVITY LAYER</h2>
+<p align="center"><i>Initiate handshake protocol below:</i></p>
 
-<br/>
-
-<!-- FOOTER: BINDING VOW -->
 <div align="center">
-  <h2 style="color: #c9d1d9;">🤝 FORM A BINDING VOW (CONNECT)</h2>
   <a href="https://linkedin.com/in/vijay-kushwaha-03">
-    <img src="https://img.shields.io/badge/LINKEDIN-JUJUTSU_HIGH-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge//api/v1/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c0d18" alt="LinkedIn" />
   </a>
   <a href="mailto:vijaykushwaha.03@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SEND_SHIKIGAMI-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge//api/v1/email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0d18" alt="Email" />
+  </a>
+  <a href="https://github.com/vijaykushwaha-03">
+    <img src="https://img.shields.io/badge//api/v1/github-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0c0d18" alt="GitHub" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:FF0000&height=120&section=footer&text=" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1a0fe,100:7bcdfd&height=120&section=footer" width="100%"/>
+  <p style="color: #aaaab8; font-family: monospace; font-size: 10px;">END OF NEURAL PROTOCOL TRANSMISSION /// STATUS: OK</p>
 </div>
