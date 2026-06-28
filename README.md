@@ -18,14 +18,14 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Developer%20Who%20Is%20Always%20Learning;AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20Enthusiast;Cloud%20%26%20MLOps%20Explorer%20%7C%20Python%20Developer;Passionate%20About%20Innovative%20Software%20Solutions&font=Fira%20Code&center=true&width=990&height=44&duration=4000&pause=1000&color=FFD700&color2=FF8C00&vCenter=true&size=26&cursor=underscore" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Developer%20Who%20Is%20Always%20Learning;Agentic%20AI%20%26%20AI%20Developer;AI%20%2F%20ML%20Engineer;LangChain%20%7C%20LangGraph%20%7C%20LangFlow;LLMs%20%7C%20RAG%20%7C%20Fine-Tuning%20%7C%20Ollama;Deep%20Learning%20%26%20MLOps%20Enthusiast&font=Fira%20Code&center=true&width=990&height=44&duration=4000&pause=1000&color=FFD700&color2=FF8C00&vCenter=true&size=26&cursor=underscore" />
 </p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <body>
 
-<h3 align="center"> Developer From India 🇮🇳</h3>
+<h3 align="center"> Agentic AI & ML Engineer from India 🇮🇳</h3>
 <img align="right"
      width="400"
      style="border-radius: 100;">
@@ -62,22 +62,53 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 
-- 🍁 I love to explore new technologies to refine my skills and contribute to interactive projects.
+- 🍁 I love to explore agentic architectures, build autonomous agent workflows, and engineer scalable AI/ML solutions.
 - 🌟 My journey into coding began with a curiosity to create, automate, and solve real-life problems.
 
 🔧 I'm currently working on:<br>
-Learning AI/ML, Deep Learning, Cloud Technology and Python for my upcoming projects, enhancing my portfolio and building AI-powered tools.<br><br>
+Building autonomous **Agentic AI systems** using **LangChain, LangGraph, and LangFlow**. Designing robust **RAG (Retrieval-Augmented Generation)** systems, optimizing LLM workflows via **Prompt Engineering**, **Context Engineering**, and custom **Agent Loops**. Fine-tuning models, utilizing **Ollama** for local execution, and implementing high-speed **Vector Databases**.<br><br>
 🤝 I'm looking to collaborate on:<br>
-AI/ML-driven projects, Python development, and open-source contributions related to any real-time application.<br><br>
+Innovative Agentic AI solutions, generative AI platforms, vector search projects, and advanced ML/DL implementations.<br><br>
 ❓ I'm looking for help with:<br>
-Collaborating on scalable projects, improving performance in apps, refining and designing intelligent systems.<br><br>
+Fine-tuning techniques (LoRA/QLoRA), complex multi-agent loop orchestrations, and deploying scalable MLOps pipelines.<br><br>
 📚 I'm currently learning:<br>
-Machine Learning, Deep Learning, DSA for competitive coding, Cloud DevOps practices (CI/CD, Docker, etc.) and Back-end development.<br><br>
+Deep learning architecture optimization, vector database indexing, state-of-the-art context window tricks, and cloud MLOps.<br><br>
 ❓ Ask me about:<br>
-Tech ideas, AI/ML engineering, building end-to-end projects from scratch, Collaboration, Tech Support.<br><br>
+Agentic AI, LLMs, LangChain/LangGraph, Ollama, Vector DBs, Prompt & Context Engineering, AI IDEs (Antigravity, Kiro, Cursor, Windsurf), and GitHub Copilot/Claude CLI.<br><br>
 🎉 Fun fact:<br>
-I love building projects that combine creativity and automation — if it solves a real problem, I'm all in!<br><br>
+I love building projects that combine AI agents and automation — if it solves a real problem, I'm all in!<br><br>
 
+---
+
+# 🤖 Agentic AI & AI Developer Ecosystem
+<div align="center">
+  
+  ### 🛠️ Frameworks & Architecture
+  [![LangChain](https://img.shields.io/badge/LangChain-⚡-00D4B2?style=for-the-badge&logoColor=white)](#)
+  [![LangGraph](https://img.shields.io/badge/LangGraph-🕸️-FF4B4B?style=for-the-badge&logoColor=white)](#)
+  [![LangFlow](https://img.shields.io/badge/LangFlow-🌊-3A86FF?style=for-the-badge&logoColor=white)](#)
+  [![Ollama](https://img.shields.io/badge/Ollama-🦙-E84E34?style=for-the-badge&logo=ollama&logoColor=white)](#)
+  
+  ### 🧠 Intelligence & Modeling
+  [![LLM & GenAI](https://img.shields.io/badge/LLM-Generative_AI-FF007F?style=for-the-badge)](#)
+  [![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Gen-FFD700?style=for-the-badge)](#)
+  [![Vector DBs](https://img.shields.io/badge/Vector_DBs-Pinecone_|_Chroma_|_Qdrant-00F0FF?style=for-the-badge)](#)
+  [![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-LoRA_|_QLoRA-8A2BE2?style=for-the-badge)](#)
+  
+  ### ⚙️ Agent Optimization
+  [![Agent Loops](https://img.shields.io/badge/Agent_Loops-Autonomous_Agents-FF5733?style=for-the-badge)](#)
+  [![Context Engineering](https://img.shields.io/badge/Context_Engineering-Window_Optim-4CAF50?style=for-the-badge)](#)
+  [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Advanced_Systems-008080?style=for-the-badge)](#)
+  
+  ### 💻 AI IDEs & CLI Tools
+  [![Antigravity](https://img.shields.io/badge/Antigravity-🛸_IDE_|_CLI-000000?style=for-the-badge&logoColor=white)](#)
+  [![Kiro](https://img.shields.io/badge/Kiro-🔮_AI_IDE-7D3CFF?style=for-the-badge)](#)
+  [![Cursor](https://img.shields.io/badge/Cursor-💻_AI_Editor-00E5FF?style=for-the-badge)](#)
+  [![Windsurf](https://img.shields.io/badge/Windsurf-🏄_AI_IDE-00C9A7?style=for-the-badge)](#)
+  [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-🤖_Partner-24292e?style=for-the-badge&logo=github&logoColor=white)](#)
+  [![Claude](https://img.shields.io/badge/Claude-💬_IDE_|_CLI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+
+</div>
 
 ---
 
