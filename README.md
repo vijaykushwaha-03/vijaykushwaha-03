@@ -1,114 +1,171 @@
-<!-- CINEMATIC HEADER: NEURAL PROTOCOL INITIALIZED -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7bcdfd,100:c1a0fe&height=180&section=header&text=System%20Online:%20VijayKushwaha-03&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Executing%20Neural%20Protocol...&descAlignY=55&descSize=20"/>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-  <!-- CINEMATIC BACKGROUND GIF -->
-  <img src="https://i.pinimg.com/originals/3d/ba/f5/3dbaf5f00fd9cb814030438cf5dfabed.gif" width="100%" alt="Cyberpunk Neural Network" style="border-radius: 15px; margin-top: -30px; margin-bottom: 20px;" />
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Vijay%20Kushwaha&width=800&height=200" alt="Vijay Kushwaha Glitch Banner"/>
+</p>
 
-  <!-- DYNAMIC HOLOGRAPHIC TYPING SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=7BCDFD&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);Vijay+Kushwaha;AI+%2F+Machine+Learning+Engineer;Deep+Learning+Architect;Model+Optimizer+%26+MLOps" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Developer%20Who%20Is%20Always%20Learning;AI%20%2F%20Machine%20Learning%20Engineer;Deep%20Learning%20%26%20MLOps%20Enthusiast;Python%20Developer%20%7C%20Cloud%20Explorer;Passionate%20About%20Innovative%20Software%20Solutions&font=Fira%20Code&center=true&width=990&height=44&duration=4000&pause=1000&color=FFD700&color2=FF8C00&vCenter=true&size=26&cursor=underscore" />
+</p>
 
-  <br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <!-- HIGH-TECH BADGES (INTERACTIVE HOVER LINKS) -->
-  <p align="center">
-    <a href="https://github.com/vijaykushwaha-03">
-      <img src="https://img.shields.io/badge/STATUS-TRAINING_MODEL-7BCDFD?style=for-the-badge&logo=git&logoColor=white&labelColor=0c0d18" alt="Status"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/TECHNIQUE-NEURAL_EXPANSION-C1A0FE?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0c0d18" alt="Technique"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/LATENCY-ZERO_BLOCKING-00F0FF?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0c0d18" alt="Latency"/>
-    </a>
-  </p>
+<body>
 
+<h3 align="center"> Developer From India 🇮🇳</h3>
+<img align="right"
+     width="400"
+     src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif"
+     style="border-radius: 15px;">
+
+<h3 align="left">
+  <img
+    alt="Glad To See You Here!"
+    src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2?style=for-the-badge&logoColor=white"
+    width="180"
+    height="30"
+  >
+</h3>
+&nbsp;&nbsp;<img
+  src="https://komarev.com/ghpvc/?username=vijaykushwaha-03&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  alt="Profile Views"
+  width="150"
+  height="28"
+/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://linkedin.com/in/vijay-kushwaha-03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="mailto:vijaykushwaha.03@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
+  <a href="https://github.com/vijaykushwaha-03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+</p>
+
+
+# 🏄‍♂️ Vijay Kushwaha
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<br/>
+# 💫 About Me:
 
-<!-- INTERACTIVE ACCORDION: CORE NEURAL WEIGHTS -->
-<h2 align="center">🧬 CORE NEURAL WEIGHTS (SKILL TREE)</h2>
-<p align="center"><i>Click on the data nodes to expand and view the underlying tech stack.</i></p>
+- 🍁 I love to explore new technologies to refine my skills and contribute to interactive projects.
+- 🌟 My journey into coding began with a curiosity to create, automate, and solve real-life problems.
 
-<div align="center">
+🔧 I'm currently working on:<br>
+Learning AI/ML, Deep Learning, and Python for my upcoming projects — building intelligent tools and enhancing my portfolio.<br><br>
+🤝 I'm looking to collaborate on:<br>
+AI-driven projects, Python development, and open-source contributions related to real-time applications.<br><br>
+❓ I'm looking for help with:<br>
+Collaborating on scalable projects, improving app performance, and refining end-to-end AI systems.<br><br>
+📚 I'm currently learning:<br>
+Machine Learning, Deep Learning, MLOps (CI/CD, Docker), Cloud Technologies, and Backend Development.<br><br>
+❓ Ask me about:<br>
+Tech ideas, AI/ML engineering, content creation, or building projects from scratch, collaboration, and tech support.<br><br>
+🎉 Fun fact:<br>
+I love building projects that combine creativity and automation — if it solves a real problem, I'm all in!<br><br>
 
-<details>
-  <summary><h3>🔴  [EXPAND] Deep Learning & AI Core</h3></summary>
-  <br />
-  <p>The foundation of my neural architecture. specialized in training, fine-tuning, and deploying complex models.</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,scikitlearn,numpy,pandas,cpp&theme=dark&perline=10" alt="Deep Learning Stack" />
-  </a>
-  <br /><br />
-</details>
 
-<details>
-  <summary><h3>🟣  [EXPAND] Engineering & API Layer</h3></summary>
-  <br />
-  <p>Building high-performance APIs and robust backend systems to serve intelligence at scale.</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,fastapi,django,flask,graphql,mysql,postgresql,mongodb&theme=dark&perline=10" alt="API Stack" />
-  </a>
-  <br /><br />
-</details>
+---
 
-<details>
-  <summary><h3>🔵  [EXPAND] MLOps & Infrastructure</h3></summary>
-  <br />
-  <p>Automating the deployment pipeline, ensuring models don't just work on localhost, but in the wild.</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux,bash,git,nginx&theme=dark&perline=10" alt="MLOps Stack" />
-  </a>
-  <br /><br />
-</details>
-
+# 💻 My Favorite Tools and Technologies
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#vijaykushwaha-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
+      <br>Google Cloud
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="65" height="65" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="65" height="65" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="icon" width="65" height="65" />
+      <br>OpenCV
+    </td>
+  </tr>
+</table>
 </div>
 
-<br/>
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<!-- ANIMATED MODEL PERFORMANCE -->
-<h2 align="center">📊 MODEL PERFORMANCE (TELEMETRY)</h2>
+---
 
+# 📊 GitHub Stats:
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <!-- GITHUB STATS -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=vijaykushwaha-03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=7bcdfd&icon_color=c1a0fe&text_color=aaaab8&bg_color=0c0d18" height="190" alt="GitHub Stats" />
-        </a>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vijaykushwaha-03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FF8C00" height="190" alt="GitHub Stats" />
       </td>
-      <td align="center">
-        <!-- TOP LANGUAGES DOING A PIE CHART -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykushwaha-03&layout=compact&theme=tokyonight&hide_border=true&title_color=7bcdfd&icon_color=c1a0fe&text_color=aaaab8&bg_color=0c0d18" height="190" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <!-- STREAK WIDGET -->
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykushwaha-03&theme=tokyonight&hide_border=true&background=0c0d18&ring=c1a0fe&fire=7bcdfd&currStreakLabel=c1a0fe" height="170" alt="GitHub Streak" />
-        </a>
-      </td>
-      <td align="center">
-         <!-- ANIMATED TROPHIES (3D EFFECT) -->
-         <a href="https://github.com/ryo-ma/github-profile-trophy">
-           <img src="https://github-profile-trophy.vercel.app/?username=vijaykushwaha-03&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=4" height="170" alt="Trophies" />
-         </a>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykushwaha-03&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FF8C00" height="190" alt="Top Languages" />
       </td>
     </tr>
   </table>
+</div>
 
-  <br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykushwaha-03&theme=tokyonight&hide_border=true&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700" height="170" alt="GitHub Streak" />
+</div>
 
-  <!-- CYBERPUNK SNAKE ANIMATION -->
-  <h3>🐍 CONTINUOUS INTEGRATION: THE SNAKE</h3>
+<br/>
+
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijaykushwaha-03/vijaykushwaha-03/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijaykushwaha-03/vijaykushwaha-03/output/github-contribution-grid-snake.svg">
@@ -118,62 +175,16 @@
 
 <br/>
 
-<!-- REPOSITORY SHOWCASE (INTERACTIVE FOLDERS) -->
-<h2 align="center">📂 PROJECT REPOSITORY (TOP ALGORITHMS)</h2>
+---
 
 <div align="center">
-  <details>
-    <summary><b>✨ Open Source Projects & Architectures</b></summary>
-    <br/>
-    <table>
-      <tr>
-        <td width="50%">
-          <h3 align="center">🤖 Project Alpha (GenAI)</h3>
-          <p align="center">Generative AI application utilizing LLMs and RAG architecture for context-aware responses.</p>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Complexity-HIGH-ff6e84?style=flat-square" />
-            <img src="https://img.shields.io/badge/Impact-CORE-7bcdfd?style=flat-square" />
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">👁️ Project Beta (CV)</h3>
-          <p align="center">Real-time Computer Vision pipeline for object detection and anomaly tracking.</p>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Complexity-EXTREME-c1a0fe?style=flat-square" />
-            <img src="https://img.shields.io/badge/Impact-EDGE-00f0ff?style=flat-square" />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <i>* Projects are exemplary. Check my pinned repositories for actual live code.</i>
-        </td>
-      </tr>
-    </table>
-  </details>
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaykushwaha-03&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" alt="Trophies" />
 </div>
 
 <br/>
 
-<!-- CONNECTIVITY LAYER AND FOOTER -->
-<h2 align="center">📡 CONNECTIVITY LAYER</h2>
-<p align="center"><i>Initiate handshake protocol below:</i></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <a href="https://linkedin.com/in/vijay-kushwaha-03">
-    <img src="https://img.shields.io/badge//api/v1/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c0d18" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vijaykushwaha.03@gmail.com">
-    <img src="https://img.shields.io/badge//api/v1/email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0d18" alt="Email" />
-  </a>
-  <a href="https://github.com/vijaykushwaha-03">
-    <img src="https://img.shields.io/badge//api/v1/github-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0c0d18" alt="GitHub" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1a0fe,100:7bcdfd&height=120&section=footer" width="100%"/>
-  <p style="color: #aaaab8; font-family: monospace; font-size: 10px;">END OF NEURAL PROTOCOL TRANSMISSION /// STATUS: OK</p>
-</div>
+<p align="center">
+  <i>⭐ From <a href="https://github.com/vijaykushwaha-03">vijaykushwaha-03</a> — Thanks for visiting!</i>
+</p>
